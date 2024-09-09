@@ -77142,7 +77142,7 @@ L(a){var s,r=null,q=t.w,p=this.c
 if(A.aV(a,r,q).w.a.a<1050)p*=0.9
 s=this.d
 q=A.aV(a,r,q).w.a.a<1050?s*0.5:s
-return A.cP(r,new A.Lw(B.zr,new A.zY("about_me.svg",r,r,r,r),r,r),B.p,r,r,r,q,r,r,p)}}
+return A.cP(r,new A.Lw(B.zr,new A.zY("assets/about_me.svg",r,r,r,r),r,r),B.p,r,r,r,q,r,r,p)}}
 A.Gb.prototype={
 L(a){return new A.iW(new A.XL(),null)}}
 A.XL.prototype={
